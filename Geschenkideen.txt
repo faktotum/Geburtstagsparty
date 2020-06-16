@@ -1,3 +1,5 @@
 Gold
 Silber
 Bronze
+Kupfer
+Palladium
